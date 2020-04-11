@@ -86,3 +86,6 @@ nav a:hover {
 .bottomline h5 {
     margin-left: 10px;
 }
+li {
+     display: inline-block;
+ }
