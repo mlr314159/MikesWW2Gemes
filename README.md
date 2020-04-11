@@ -1,5 +1,5 @@
 # Playing toy soldiers theamed on WW2
-gitpod-page: https://mlr314159.github.io/MikesWW2Gemes/
+gitpod-page: https://mlr314159.github.io/mikesww2gemes/
 
 <p style = "font-style:italic; font-size:smaller;">Project 1 for Code Institute - HTML, CSS, BOOTSTRAP and fontawesome</p>
 <p>
