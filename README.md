@@ -1,9 +1,14 @@
 # Playing toy soldiers theamed on WW2
-tbale top wargame rule for WW2 each figure gropu unit represnting company strenght.
-- Figures 10mm from www.https://pendraken.co.uk/.   Painted by Me
-- Rules adapted from 
-    - WW2 rules by Peter on https://gridbasedwargaming.blogspot.com/  , who adapted them from 
-    - One Hour Wargames, Author Neil Thomas, Publishers Pen & Sword, ISBN-13: 978-1473822900
-
+<p style = "font-style:italic; font-size:smaller;">Project 1 for Code Institute - HTML, CSS, BOOTSTRAP and fontawesome</p>
+<p>
+	Table top games with Toy Soldiers: Rules for WW2 each figure gropu unit represnting company strenght.
+	<ul>
+		<li>Rules adapted from : WW2 rules by Peter on <a href ="https://gridbasedwargaming.blogspot.com" target="_blank">https://gridbasedwargaming.blogspot.com</a></li>
+		<li>His rules adapted from :One Hour Wargames, Author: Neil Thomas, Publisher: Pen & Sword, ISBN: 978-1473822900</li>
+		<li>Figures 10mm from <a href ="https://pendraken.co.uk/" target="_blank">https://pendraken.co.uk/</a> painted & photod by Me</li>		
+	</ul>
+</p>
 ## Bootstrap 4
-## Font Awsome
+## Font Awsome 5
+
+https://www.w3schools.com.  for HTML CSS reminders

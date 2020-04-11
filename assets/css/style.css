@@ -1,13 +1,25 @@
 .main {
-    padding-left: 10%;
+    
+    margin-bottom: 0;
+    border-bottom: 0;
 }
 
 h1 {
-    text-decoration-style: underline;
+    padding-left: 10px;
+    padding-top: 30px;
+    padding-bottom:0;
+
+}
+
+.para-h1 {
+    padding-left: 10px;
+    padding-top: 0;
 }
 
 h2 {
     text-align: center;
+    margin-bottom: 0;
+    border-bottom: 0;
 }
 
 h3 {
@@ -17,6 +29,11 @@ h3 {
 h4 {
     
 }
+
+article {
+    padding-left: 10px;
+}
+
 p {
 
 }
@@ -28,6 +45,7 @@ img {
 .topline {
     margin-bottom: 0;
     border-bottom: 0;
+    padding: 0;
     background-color: sandybrown;
     font-weight: 450;
 }
@@ -38,12 +56,33 @@ img {
 
 
 .nav-bar {
-    width:100%;
+    padding: 0;
+    margin-top: 0;
+    margin-bottom: 0;
     background-color: papayawhip;
-    color: white;
+}
+
+.nav-item {
+    background-color: papayawhip;
+    font-weight: 550;
+    padding: 0 20px 0 20px;
+    font-size : larger;
+    color: black;
+    margin-top: 0;
+    border-top: 0;
+}
+
+nav a:hover {
+    background-color: sandybrown;
+    color:#faf5f1;
+    text-decoration: none;
 }
 
 .bottomline {
     background-color: sandybrown;
-    font-weight: 450;
+    font-weight: 450; 
+}
+
+.bottomline h5 {
+    margin-left: 10px;
 }
