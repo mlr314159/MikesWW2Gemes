@@ -84,6 +84,15 @@ section {
     font-style: italic;
  }
 
+ th {
+     width: 70px;
+     text-align:left;
+ }
+
+ .widecol {
+      width: 120px;
+ }
+
 .bottomline {
     background-color: sandybrown;
  
